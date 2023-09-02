@@ -14,7 +14,7 @@ Then paste it into "application.properties"
 github.api.token = your API token
 ```
 
-###Example of using the application is presented in the application for testing - Postman.
+### Example of using the application is presented in the application for testing - Postman.
 
 - To search for user repositories you should enter the path to the GET method
 ```
